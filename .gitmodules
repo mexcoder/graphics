@@ -1,0 +1,6 @@
+[submodule "3D Graphics"]
+	path = 3D Graphics
+	url = https://github.com/mexcoder/3D-Graphics.git
+[submodule "proyecto"]
+	path = proyecto
+	url = https://github.com/mexcoder/graphics-proyect.git
